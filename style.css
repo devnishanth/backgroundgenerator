@@ -1,0 +1,23 @@
+body{
+	background: linear-gradient(to right , red , blue);
+	text-align: center;
+}
+h1{
+	display: flex;
+	justify-content: space-around;
+	letter-spacing: 10px;
+	font-size: 3em;
+}
+h2{
+	display: flex;
+	justify-content: space-around;
+
+}
+.color{
+	position: relative;
+	display: flex;
+	justify-content: ;
+
+
+
+}
